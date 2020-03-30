@@ -42,6 +42,8 @@ npm start
 
 Add a parameter called providerName of type text, and a parameter called file of type file to make the post request.
 
+For providerName, you can use a string like 'Dealer 3' for example.
+
 You can choose a csv file inside the test-csv-files folder to use as the file param.
 
 ### Run tests
