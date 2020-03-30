@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-backend",
+  "version": "1.0.0",
+  "description": "Node JS coding challenge for AutoFi",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server.js"
+  },
+  "author": "Andrés Osante",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.6",
+    "multer": "^1.4.2",
+    "uuidv4": "^6.0.6"
+  },
+  "devDependencies": {
+    "jest": "^25.2.0",
+    "mongodb-memory-server": "^6.5.0",
+    "nodemon": "^2.0.2"
+  }
+}
