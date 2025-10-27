@@ -13,7 +13,7 @@
     "csv-parser": "^2.3.2",
     "express": "^4.21.2",
     "mongoose": "^8.9.5",
-    "multer": "^2.0.0",
+    "multer": "^2.0.2",
     "uuidv4": "^6.0.6"
   },
   "devDependencies": {
